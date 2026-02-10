@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Application specific
+reports/
+temp_session_*/
+*.png
+latest_capture.png
+evidence.png
+temp_cookies
+ghost_session/
+shadow_vault/
+cookies.json
+warmer_status.json
+Ghost_Report_*.pdf
+
+# Logs
+*.log
